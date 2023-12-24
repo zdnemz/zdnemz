@@ -4,9 +4,11 @@
 
 Greetings! I'm ZidaneMZ, a computer science student with a passion for the ever-evolving realm of web development. Currently on the academic journey, I savor every moment of learning in the dynamic world of technology.
 
+[![wakatime](https://wakatime.com/badge/user/018c6c68-6108-48b2-ba7f-b975d21fdcb3.svg)](https://wakatime.com/@018c6c68-6108-48b2-ba7f-b975d21fdcb3)
+
 ## 🔧 Expertise
 
-- 💻 Fullstack Web Developer
+- 💻 Frontend Web Developer
 - 🌐 Proficient in Programming Languages and Framework: JavaScript, CSS, Tailwind, Node.js, Express.js, React.js
 - 🛠️ Technologies I Master: MySQL
 - 🚀 Focusing on in-depth development with React.js
@@ -14,7 +16,7 @@ Greetings! I'm ZidaneMZ, a computer science student with a passion for the ever-
 
 ## 🎓 Education
 
-I am currently pursuing a degree in Computer Science at [Your University]. The curriculum here provides a robust foundation in computer science, fueling my curiosity to continually grow.
+I am currently pursuing a degree in Computer Science at [Islamic University of Kalimantan](https://uniska-bjm.ac.id/). The curriculum here provides a robust foundation in computer science, fueling my curiosity to continually grow.
 
 ## 🚀 Recent Projects
 
