@@ -28,6 +28,12 @@ Beyond the coding universe, I delight in learning new things and sharing knowled
 
 ## 📬 Get in Touch
 
-If you're interested in what I do or want to collaborate, feel free to connect with me on [GitHub](https://github.com/zdnemz). I'm always open to discussions, idea exchanges, and new opportunities.
+If you're interested in what I do or want to collaborate, feel free to connect with me on social media. I'm always open to discussions, idea exchanges, and new opportunities.
 
+[![GitHub - zdnemz](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zdnemz)
+[![LinkedIn - zdnemz](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zdnemz/)
+[![Twitter - zdanemz](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zdanemz)
+[![Instagram - zdnemz](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zdnemz)
+
+---
 Thanks for stopping by my profile! 🚀
