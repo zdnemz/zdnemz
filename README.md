@@ -9,7 +9,7 @@ Greetings! I'm ZidaneMZ, a computer science student with a passion for the ever-
 ## 🔧 Expertise
 
 - 💻 Web Developer
-- 🌐 Proficient in Programming Languages and Framework: JavaScript, CSS, Tailwind, Node.js, Express.js, React.js
+- 🌐 Proficient in Programming Languages and Framework: JavaScript, Python, CSS, Tailwind, Node.js, Express.js, React.js
 - 🛠️ Technologies I Master: MySQL
 - 🚀 Focusing on in-depth development with React.js
 - 🧠 Strong in Problem Solving and Critical Thinking
