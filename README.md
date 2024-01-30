@@ -31,7 +31,7 @@ Beyond the coding universe, I delight in learning new things and sharing knowled
 
 ## 🌟 Stats
 
-![ZidaneMZ](https://github-readme-stats.vercel.app/api/wakatime/?username=ZidaneMZ&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
+[![ZidaneMZ](https://github-readme-stats.vercel.app/api/wakatime/?username=ZidaneMZ&layout=compact&theme=radical&bg_color=161b22&hide_border=true)(https://wakatime.com/@ZidaneMZ)]
 
 ## 📬 Get in Touch
 
