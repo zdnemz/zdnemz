@@ -1,46 +1,36 @@
-# 👋 Hello World!
+<h1 align="center">Hello World!</h1>
 
 ## 🧑‍💻 About Me
-
-Hello there! I'm ZidaneMZ, a computer science with a passion for the ever-evolving realm of web development. Currently on the academic journey, I savor every moment of learning in the dynamic world of technology.
+Hello there! I'm ZidaneMZ, a computer science enthusiast passionate about web development. I'm currently studying Computer Science at [Islamic University of Kalimantan](https://uniska-bjm.ac.id/).
 
 ## 🔧 Expertise
 
-### Progamming Languages
-
+### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ### Frameworks and Libraries
-
 [![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&style=for-the-badge&logoColor=white)](https://react.dev/)
-[![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### Databases
+
+### Tools
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-E14C4B?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-## 🎓 Education
-
-I am currently pursuing a degree in Computer Science at [Islamic University of Kalimantan](https://uniska-bjm.ac.id/). The curriculum here provides a robust foundation in computer science, fueling my curiosity to continually grow.
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## 😊 What I Enjoy
-
-Beyond the coding universe, I delight in learning new things and sharing knowledge with others. I firmly believe that teamwork yields the best results, and that's why I thrive in collaborative environments.
+I love learning new things and sharing knowledge. I thrive in collaborative environments and believe teamwork brings out the best results.
 
 ## 🌟 Stats
-
 [![ZidaneMZ](https://github-readme-stats.vercel.app/api/wakatime/?username=ZidaneMZ&layout=compact&theme=radical&bg_color=161b22&hide_border=true)](https://wakatime.com/@ZidaneMZ)
 
 ## 📬 Get in Touch
-
-If you're interested in what I do or want to collaborate, feel free to connect with me on social media. I'm always open to discussions, idea exchanges, and new opportunities.
+Feel free to connect with me on social media!
 
 [![GitHub - zdnemz](https://img.shields.io/badge/zdnemz-%23121011.svg?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/zdnemz)
 [![LinkedIn - zdnemz](https://img.shields.io/badge/zdnemz-%230077B5.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zdnemz/)
@@ -49,4 +39,4 @@ If you're interested in what I do or want to collaborate, feel free to connect w
 
 ---
 
-Thanks for stopping by my profile! 🚀
+Thanks for stopping by! 🚀
