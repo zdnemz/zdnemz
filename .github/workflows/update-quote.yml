@@ -1,0 +1,39 @@
+name: Update Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run update script
+        run: deno run --allow-read --allow-write --allow-net src/index.ts
+
+      - name: Commit if changed
+        run: |
+          git config --global user.name "zdnemz"
+          git config --global user.email "zidanemz69@gmail.com"
+
+          git add README.md
+
+          date=$(date '+%Y-%m-%d')
+          git diff --cached --quiet || git commit -m "chore (quotes): update $date quote"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          force: true
+          github_token: ${{ secrets.GH_PAT }}
+          branch: main

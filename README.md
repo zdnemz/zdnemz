@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello there! I'm ZidaneMZ, a computer science enthusiast passionate about web development. I'm currently studying Computer Science at [Islamic University of Kalimantan](https://uniska-bjm.ac.id/).
+Hello there! I'm ZidaneMZ, a computer science enthusiast passionate about React Development. I'm currently studying Computer Science at [Islamic University of Kalimantan](https://uniska-bjm.ac.id/).
 
 ## 🔧 Expertise
 
@@ -12,8 +12,6 @@ Hello there! I'm ZidaneMZ, a computer science enthusiast passionate about web de
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-
 
 ### Frameworks and Libraries
 
@@ -39,6 +37,14 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 🌟 Stats
 
 [![ZidaneMZ](https://github-readme-stats.vercel.app/api/wakatime/?username=ZidaneMZ&layout=compact&theme=radical&bg_color=161b22&hide_border=true)](https://wakatime.com/@ZidaneMZ)
+
+## 💬 Quote of the Day
+
+<!-- QUOTEOTD:START -->
+> “The only way to do great work is to love what you do.”
+>
+> — Steve Jobs
+<!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
 
