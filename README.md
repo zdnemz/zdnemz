@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> “The only way to do great work is to love what you do.”
+> "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "
 >
-> — Steve Jobs
+> — Wayne Dyer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
