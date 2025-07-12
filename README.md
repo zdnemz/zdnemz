@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "
+> "The destiny of man is in his own soul. "
 >
-> — Wayne Dyer
+> — Herodotus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
