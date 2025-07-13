@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The destiny of man is in his own soul. "
+> "Most people fail in life not because they aim too high and miss, but because they aim too low and hit."
 >
-> — Herodotus
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
