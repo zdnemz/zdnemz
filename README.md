@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Sometimes out of your biggest misery, comes your greatest gain."
+> "You will succeed because most people are lazy."
 >
-> — Steve Harvey
+> — Shahir Zag
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
