@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You will succeed because most people are lazy."
+> "Well done is better than well said."
 >
-> — Shahir Zag
+> — Benjamin Franklin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
