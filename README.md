@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Well done is better than well said."
+> "Ponder and deliberate before you make a move."
 >
-> — Benjamin Franklin
+> — Sun Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
