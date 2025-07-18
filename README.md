@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Ponder and deliberate before you make a move."
+> "Better a diamond with a flaw than a pebble without one."
 >
-> — Sun Tzu
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
