@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Better a diamond with a flaw than a pebble without one."
+> "Words used to attract the dull of wit are not to be relied on."
 >
-> — Chinese Proverb
+> — Huang Po
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
