@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Words used to attract the dull of wit are not to be relied on."
+> "You're on earth. There's no cure for that."
 >
-> — Huang Po
+> — Samuel Beckett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
