@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You're on earth. There's no cure for that."
+> "Everything eaten is killed. Every meal is a sacrifice."
 >
-> — Samuel Beckett
+> — Adi Da Samraj
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
