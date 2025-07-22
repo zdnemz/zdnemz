@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everything eaten is killed. Every meal is a sacrifice."
+> "Your work is to discover your work and then, with all your heart, to give yourself to it."
 >
-> — Adi Da Samraj
+> — Buddha
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
