@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your work is to discover your work and then, with all your heart, to give yourself to it."
+> "Originality is the fine art of remembering what you hear but forgetting where you heard it. "
 >
-> — Buddha
+> — Laurence J. Peter
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
