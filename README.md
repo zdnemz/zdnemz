@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Originality is the fine art of remembering what you hear but forgetting where you heard it. "
+> "When you're curious, you find lots of interesting things to do."
 >
-> — Laurence J. Peter
+> — Walt Disney
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
