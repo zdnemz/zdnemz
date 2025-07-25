@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you're curious, you find lots of interesting things to do."
+> "To every action there is always opposed an equal reaction."
 >
-> — Walt Disney
+> — Isaac Newton
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
