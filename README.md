@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To every action there is always opposed an equal reaction."
+> "Creativity is the greatest rebellion in existence."
 >
-> — Isaac Newton
+> — Osho
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
