@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Creativity is the greatest rebellion in existence."
+> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker."
 >
-> — Osho
+> — Eckhart Tolle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
