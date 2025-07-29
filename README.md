@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Confidence comes from crossing thresholds."
+> "What you do today can improve all your tomorrows."
 >
-> — Kamal Ravikant
+> — Ralph Marston
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
