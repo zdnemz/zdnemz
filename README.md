@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "What you do today can improve all your tomorrows."
+> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "
 >
-> — Ralph Marston
+> — Herodotus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
