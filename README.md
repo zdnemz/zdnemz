@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "
+> "One mistake does not have to rule a person's entire life."
 >
-> — Herodotus
+> — Joyce Meyer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
