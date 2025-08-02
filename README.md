@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."
+> "Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."
 >
-> — Steve Maraboli
+> — Marcus Aurelius
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
