@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."
+> "How many times do you have to get hit over the head until you figure out who's hitting you?"
 >
-> — Marcus Aurelius
+> — Harry S. Truman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
