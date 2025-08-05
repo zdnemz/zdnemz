@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The only limits in your life are those that you set yourself."
+> "Among the things you can give and still keep are your word, a smile, and a grateful heart."
 >
-> — Celestine Chua
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
