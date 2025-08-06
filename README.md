@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Among the things you can give and still keep are your word, a smile, and a grateful heart."
+> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
 >
-> — Zig Ziglar
+> — William Faulkner
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
