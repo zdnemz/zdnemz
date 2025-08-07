@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
+> "Be yourself; everyone else is already taken."
 >
-> — William Faulkner
+> — Oscar Wilde
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
