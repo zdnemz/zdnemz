@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be yourself; everyone else is already taken."
+> "Fishing is much more than fish."
 >
-> — Oscar Wilde
+> — Herbert Hoover
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
