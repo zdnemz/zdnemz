@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Fishing is much more than fish."
+> "Don't criticize what you can't understand. "
 >
-> — Herbert Hoover
+> — Bob Dylan
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
