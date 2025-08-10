@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't criticize what you can't understand. "
+> "Management is doing things right; leadership is doing the right things."
 >
-> — Bob Dylan
+> — Peter Drucker
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
