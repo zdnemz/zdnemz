@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Management is doing things right; leadership is doing the right things."
+> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
 >
-> — Peter Drucker
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
