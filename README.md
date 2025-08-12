@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
+> "We must learn to live together as brothers or perish together as fools."
 >
-> — Zig Ziglar
+> — Martin Luther King, Jr.
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
