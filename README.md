@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We must learn to live together as brothers or perish together as fools."
+> "It is not what we get. But who we become, what we contribute... that gives meaning to our lives."
 >
-> — Martin Luther King, Jr.
+> — Tony Robbins
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
