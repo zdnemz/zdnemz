@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is not what we get. But who we become, what we contribute... that gives meaning to our lives."
+> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "
 >
-> — Tony Robbins
+> — Nikola Tesla
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
