@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "
+> "Turn your face to the sun, as flowers know how to do."
 >
-> — Nikola Tesla
+> — Ming-Dao Deng
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
