@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Turn your face to the sun, as flowers know how to do."
+> "Some people feel the rain. Others just get wet. "
 >
-> — Ming-Dao Deng
+> — Bob Dylan
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
