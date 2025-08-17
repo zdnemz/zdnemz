@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Some people feel the rain. Others just get wet. "
+> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."
 >
-> — Bob Dylan
+> — Richard Bach
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
