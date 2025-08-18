@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."
+> "Happiness is an effect of doing what you love, not an end goal to be achieved."
 >
-> — Richard Bach
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
