@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Happiness is an effect of doing what you love, not an end goal to be achieved."
+> "It is not uncommon for people to spend their whole life waiting to start living."
 >
-> — Celestine Chua
+> — Eckhart Tolle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
