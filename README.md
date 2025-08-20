@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is not uncommon for people to spend their whole life waiting to start living."
+> "You are the average of the five people you spend most time with."
 >
-> — Eckhart Tolle
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
