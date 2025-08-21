@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are the average of the five people you spend most time with."
+> "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
 >
-> — Jim Rohn
+> — Ayn Rand
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
