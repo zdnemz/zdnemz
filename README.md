@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
+> "A man who cannot tolerate small misfortunes can never accomplish great things."
 >
-> — Ayn Rand
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
