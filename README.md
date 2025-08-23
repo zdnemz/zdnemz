@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A man who cannot tolerate small misfortunes can never accomplish great things."
+> "Do the hard jobs first. The easy jobs will take care of themselves."
 >
-> — Chinese Proverb
+> — Dale Carnegie
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
