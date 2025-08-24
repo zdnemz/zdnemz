@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Do the hard jobs first. The easy jobs will take care of themselves."
+> "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."
 >
-> — Dale Carnegie
+> — Robert Frost
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
