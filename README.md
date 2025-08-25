@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."
+> "The more we value things, the less we value ourselves.  "
 >
-> — Robert Frost
+> — Bruce Lee
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
