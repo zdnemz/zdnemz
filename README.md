@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The more we value things, the less we value ourselves.  "
+> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
 >
-> — Bruce Lee
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
