@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
+> "Keep your face to the sunshine and you cannot see the shadows."
 >
-> — Celestine Chua
+> — Helen Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
