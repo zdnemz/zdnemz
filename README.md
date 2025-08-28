@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Keep your face to the sunshine and you cannot see the shadows."
+> "Behind every beautiful thing, there's some kind of pain."
 >
-> — Helen Keller
+> — Bob Dylan
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
