@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Behind every beautiful thing, there's some kind of pain."
+> "Talent is luck. The important thing in life is courage."
 >
-> — Bob Dylan
+> — Woody Allen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
