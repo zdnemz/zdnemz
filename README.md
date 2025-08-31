@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "
+> "There is always risk, so learn to manage risk instead of avoiding it."
 >
-> — George Washington
+> — Robert Kiyosaki
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
