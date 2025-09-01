@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is always risk, so learn to manage risk instead of avoiding it."
+> "First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "
 >
-> — Robert Kiyosaki
+> — Estee Lauder
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
