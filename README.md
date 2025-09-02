@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "
+> "The trouble with the rat race is that even if you win, you're still a rat."
 >
-> — Estee Lauder
+> — Lily Tomlin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
