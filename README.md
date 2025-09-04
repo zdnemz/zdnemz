@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To know even one life has breathed easier because you have lived. This is to have succeeded."
+> "Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."
 >
-> — Ralph Waldo Emerson
+> — Steve Harvey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
