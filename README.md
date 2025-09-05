@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."
+> "A lot of people have gone further than they thought they could because someone else thought they could."
 >
-> — Steve Harvey
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
