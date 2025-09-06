@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A lot of people have gone further than they thought they could because someone else thought they could."
+> "If no one ever broke the rules, then we'd never advance."
 >
-> — Zig Ziglar
+> — Simon Sinek
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
