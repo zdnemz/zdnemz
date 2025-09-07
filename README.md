@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If no one ever broke the rules, then we'd never advance."
+> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."
 >
-> — Simon Sinek
+> — T.S. Eliot
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
