@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."
+> "Don't blame others. it won't make you a better person."
 >
-> — T.S. Eliot
+> — Lolly Daskal
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
