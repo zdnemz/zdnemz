@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't blame others. it won't make you a better person."
+> "A fall into a ditch makes you wiser."
 >
-> — Lolly Daskal
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
