@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A fall into a ditch makes you wiser."
+> "One small positive thought can change your whole day."
 >
-> — Chinese Proverb
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
