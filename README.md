@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "One small positive thought can change your whole day."
+> "A gentleman accepts the responsibility of his actions and bears the burden of their consequences."
 >
-> — Zig Ziglar
+> — William Faulkner
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
