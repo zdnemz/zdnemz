@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A gentleman accepts the responsibility of his actions and bears the burden of their consequences."
+> "Don't try to steer the river."
 >
-> — William Faulkner
+> — Deepak Chopra
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
