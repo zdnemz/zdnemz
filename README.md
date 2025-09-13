@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't try to steer the river."
+> "No problem can be solved from the same level of consciousness that created it."
 >
-> — Deepak Chopra
+> — Albert Einstein
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
