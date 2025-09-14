@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "No problem can be solved from the same level of consciousness that created it."
+> "It is not fair to ask of others what you are not willing to do yourself."
 >
-> — Albert Einstein
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
