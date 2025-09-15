@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is not fair to ask of others what you are not willing to do yourself."
+> "Passion is energy. Feel the power that comes from focusing on what excites you. "
 >
-> — Eleanor Roosevelt
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
