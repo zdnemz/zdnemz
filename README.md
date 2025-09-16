@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Passion is energy. Feel the power that comes from focusing on what excites you. "
+> "A strong man overcomes an obstacle, a wise man goes the whole way."
 >
-> — Oprah Winfrey
+> — Zen Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
