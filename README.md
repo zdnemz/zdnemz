@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A strong man overcomes an obstacle, a wise man goes the whole way."
+> "I dream my painting and I paint my dream."
 >
-> — Zen Proverb
+> — Vincent van Gogh
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
