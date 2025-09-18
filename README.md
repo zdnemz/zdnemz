@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I dream my painting and I paint my dream."
+> "Success is getting what you want... Happiness is wanting what you get."
 >
-> — Vincent van Gogh
+> — Dale Carnegie
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
