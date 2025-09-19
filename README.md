@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Success is getting what you want... Happiness is wanting what you get."
+> "If you are ever the smartest person in the room, you are in the wrong room."
 >
-> — Dale Carnegie
+> — C. Sean McGee
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
