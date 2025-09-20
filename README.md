@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you are ever the smartest person in the room, you are in the wrong room."
+> "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."
 >
-> — C. Sean McGee
+> — Dale Carnegie
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
