@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Never whine, never complain, never try to justify yourself."
+> "There is no greatness where there is not simplicity, goodness, and truth."
 >
-> — Robert Greene
+> — Leo Tolstoy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
