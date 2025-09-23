@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is no greatness where there is not simplicity, goodness, and truth."
+> "Human beings can alter their lives by altering their attitudes of mind."
 >
-> — Leo Tolstoy
+> — William James
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
