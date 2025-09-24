@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Human beings can alter their lives by altering their attitudes of mind."
+> "You must be willing to do what others won't do, to have what others won't have."
 >
-> — William James
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
