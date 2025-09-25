@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You must be willing to do what others won't do, to have what others won't have."
+> "When you move beyond your fear, you feel free."
 >
-> — Les Brown
+> — Spencer Johnson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
