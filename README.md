@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."
+> "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."
 >
-> — Lao Tzu
+> — Robert Greene
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
