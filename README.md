@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."
+> "No man is free who is not master of himself."
 >
-> — Robert Greene
+> — Epictetus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
