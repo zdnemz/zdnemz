@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "No man is free who is not master of himself."
+> "Not everything that weighs you down is yours to carry."
 >
-> — Epictetus
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
