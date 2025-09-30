@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Not everything that weighs you down is yours to carry."
+> "Judge a man by his questions rather than his answers."
 >
-> — Unknown
+> — Voltaire
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
