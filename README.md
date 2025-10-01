@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Judge a man by his questions rather than his answers."
+> "Don't let the past steal your present."
 >
-> — Voltaire
+> — Cherralea Morgen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
