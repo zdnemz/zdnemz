@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't let the past steal your present."
+> "He that can have patience can have what he will."
 >
-> — Cherralea Morgen
+> — Benjamin Franklin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
