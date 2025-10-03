@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He that can have patience can have what he will."
+> "It is our experiences that mold us into who we are...during times of adversity our true character will show."
 >
-> — Benjamin Franklin
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
