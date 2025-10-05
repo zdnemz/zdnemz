@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The opposite of courage in our society is not cowardice... it is conformity."
+> "The truth is not for all men, but for those who seek it."
 >
-> — Earl Nightingale
+> — Ayn Rand
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
