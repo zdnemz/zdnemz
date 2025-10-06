@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The truth is not for all men, but for those who seek it."
+> "I never dwell on what happened. You can't change it. Move forward."
 >
-> — Ayn Rand
+> — Joan Rivers
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
