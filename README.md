@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I never dwell on what happened. You can't change it. Move forward."
+> "Listen to the secret sound, the real sound, which is inside you."
 >
-> — Joan Rivers
+> — Kabir
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
