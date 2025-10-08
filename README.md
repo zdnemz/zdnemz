@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Listen to the secret sound, the real sound, which is inside you."
+> "The eyes of others our prisons; their thoughts our cages."
 >
-> — Kabir
+> — Virginia Woolf
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
