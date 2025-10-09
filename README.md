@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The eyes of others our prisons; their thoughts our cages."
+> "There is nothing more frightful than ignorance in action."
 >
-> — Virginia Woolf
+> — Johann Wolfgang von Goethe
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
