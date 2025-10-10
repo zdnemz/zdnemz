@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is nothing more frightful than ignorance in action."
+> "The more reasons you have for achieving your goal, the more determined you will become."
 >
-> — Johann Wolfgang von Goethe
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
