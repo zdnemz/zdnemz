@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The more reasons you have for achieving your goal, the more determined you will become."
+> "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."
 >
-> — Brian Tracy
+> — Pema Chodron
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
