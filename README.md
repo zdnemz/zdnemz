@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."
+> "You must learn to let go. Release the stress. You were never in control anyway."
 >
-> — Pema Chodron
+> — Steve Maraboli
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
