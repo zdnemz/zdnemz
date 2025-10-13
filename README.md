@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You must learn to let go. Release the stress. You were never in control anyway."
+> "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."
 >
-> — Steve Maraboli
+> — Jon Kabat-Zinn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
