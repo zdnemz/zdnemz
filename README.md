@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."
+> "When it is dark enough, you can see the stars."
 >
-> — Jon Kabat-Zinn
+> — Ralph Waldo Emerson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
