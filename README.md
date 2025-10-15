@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When it is dark enough, you can see the stars."
+> "Life is trying things to see if they work."
 >
-> — Ralph Waldo Emerson
+> — Ray Bradbury
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
