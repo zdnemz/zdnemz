@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life is trying things to see if they work."
+> "Desire is suffering."
 >
-> — Ray Bradbury
+> — Naval Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
