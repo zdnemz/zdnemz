@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Desire is suffering."
+> "Excellence is not a skill. It is an attitude. "
 >
-> — Naval Ravikant
+> — Ralph Marston
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
