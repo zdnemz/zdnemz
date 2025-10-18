@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Excellence is not a skill. It is an attitude. "
+> "Forgive those who have hurt you."
 >
-> — Ralph Marston
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
