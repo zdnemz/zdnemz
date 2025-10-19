@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Forgive those who have hurt you."
+> "Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."
 >
-> — Les Brown
+> — Benjamin Mays
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
