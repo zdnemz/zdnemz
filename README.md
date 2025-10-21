@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you're waiting until you feel talented enough to make it, you'll never make it."
+> "There is no absolute success in the world, only constant progress."
 >
-> — Criss Jami
+> — Jonathan Swift
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
