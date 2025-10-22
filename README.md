@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is no absolute success in the world, only constant progress."
+> "Where there is no struggle, there is no strength. "
 >
-> — Jonathan Swift
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
