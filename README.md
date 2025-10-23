@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Where there is no struggle, there is no strength. "
+> "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "
 >
-> — Oprah Winfrey
+> — Jack London
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
