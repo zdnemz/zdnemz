@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "
+> "Greatest success comes just one step beyond the point at which defeat overtakes you."
 >
-> — Jack London
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
