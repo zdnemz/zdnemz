@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Greatest success comes just one step beyond the point at which defeat overtakes you."
+> "Love is the absence of judgment."
 >
-> — Unknown
+> — Dalai Lama
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
