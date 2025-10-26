@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Love is the absence of judgment."
+> "Integrity is the ability to stand by an idea."
 >
-> — Dalai Lama
+> — Ayn Rand
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
