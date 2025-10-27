@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Integrity is the ability to stand by an idea."
+> "One beam, no matter how big, cannot support an entire house on its own."
 >
-> — Ayn Rand
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
