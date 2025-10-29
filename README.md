@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."
+> "We are always complaining that our days are few, and acting as though there would be no end of them.  "
 >
-> — G.I. Gurdjieff
+> — Seneca
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
