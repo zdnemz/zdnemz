@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Whenever people agree with me I always feel I must be wrong."
+> "Believe in your infinite potential. Your only limitations are those you set upon yourself."
 >
-> — Oscar Wilde
+> — Roy T. Bennett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
