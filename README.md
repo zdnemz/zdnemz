@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A lie can travel half way around the world while the truth is putting on its shoes."
+> "The purpose of life is the life of purpose."
 >
-> — Mark Twain
+> — Robin Sharma
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
