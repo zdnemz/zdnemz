@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The purpose of life is the life of purpose."
+> "Never let the fear of striking out keep you from playing the game."
 >
-> — Robin Sharma
+> — Babe Ruth
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
