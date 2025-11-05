@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Never let the fear of striking out keep you from playing the game."
+> "Anyone who has ever made anything of importance was disciplined."
 >
-> — Babe Ruth
+> — Andrew Hendrixson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
