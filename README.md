@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Anyone who has ever made anything of importance was disciplined."
+> "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."
 >
-> — Andrew Hendrixson
+> — Eckhart Tolle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
