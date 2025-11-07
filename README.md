@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."
+> "He who knows best knows how little he knows."
 >
-> — Eckhart Tolle
+> — Thomas Jefferson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
