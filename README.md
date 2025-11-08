@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He who knows best knows how little he knows."
+> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."
 >
-> — Thomas Jefferson
+> — Jon Kabat-Zinn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
