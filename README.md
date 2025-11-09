@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."
+> "It is what we make out of what we have, not what we are given, that separates one person from another."
 >
-> — Jon Kabat-Zinn
+> — Nelson Mandela
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
