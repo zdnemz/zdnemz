@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is what we make out of what we have, not what we are given, that separates one person from another."
+> "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."
 >
-> — Nelson Mandela
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
