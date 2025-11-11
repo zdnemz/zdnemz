@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."
+> "A hopeless man is a very desperate and dangerous man, almost a dead man."
 >
-> — Brian Tracy
+> — Robert F. Kennedy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
