@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A hopeless man is a very desperate and dangerous man, almost a dead man."
+> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."
 >
-> — Robert F. Kennedy
+> — Kahlil Gibran
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
