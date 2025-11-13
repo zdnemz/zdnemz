@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."
+> "The best answer to anger is silence."
 >
-> — Kahlil Gibran
+> — Marcus Aurelius
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
