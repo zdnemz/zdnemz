@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The best answer to anger is silence."
+> "No man can get rich himself unless he enriches others."
 >
-> — Marcus Aurelius
+> — Earl Nightingale
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
