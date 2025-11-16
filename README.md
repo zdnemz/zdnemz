@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."
+> "Dream big. Start small. But most of all, start."
 >
-> — Og Mandino
+> — Simon Sinek
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
