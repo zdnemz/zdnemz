@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Dream big. Start small. But most of all, start."
+> "The power to make and break habits and learning how to do that is really important."
 >
-> — Simon Sinek
+> — Naval Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
