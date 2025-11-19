@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."
+> "Passion creates, addiction consumes."
 >
-> — Elon Musk
+> — Gabor Mate
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
