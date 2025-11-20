@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Passion creates, addiction consumes."
+> "The opportunity of defeating the enemy is provided by the enemy himself."
 >
-> — Gabor Mate
+> — Sun Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
