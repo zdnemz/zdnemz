@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The opportunity of defeating the enemy is provided by the enemy himself."
+> "We suffer more often in imagination than in reality.  "
 >
-> — Sun Tzu
+> — Seneca
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
