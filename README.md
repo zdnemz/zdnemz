@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It isn't that they can't see the solution. It is that they can't see the problem."
+> "The greatest weariness comes from work not done."
 >
-> — Gilbert Chesterton
+> — Eric Hoffer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
