@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The greatest weariness comes from work not done."
+> "The Truth is realized in an instant; the Act is practiced step by step."
 >
-> — Eric Hoffer
+> — Seungsahn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
