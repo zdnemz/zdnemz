@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The Truth is realized in an instant; the Act is practiced step by step."
+> "Before anything else, preparation is the key to success."
 >
-> — Seungsahn
+> — Alexander Graham Bell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
