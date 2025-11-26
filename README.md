@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Before anything else, preparation is the key to success."
+> "The soul without imagination is what an observatory would be without a telescope."
 >
-> — Alexander Graham Bell
+> — Henry Ward Beecher
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
