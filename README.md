@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The soul without imagination is what an observatory would be without a telescope."
+> "The way out is in."
 >
-> — Henry Ward Beecher
+> — Thich Nhat Hanh
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
