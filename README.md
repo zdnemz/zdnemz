@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The way out is in."
+> "Best be yourself, imperial, plain, and true."
 >
-> — Thich Nhat Hanh
+> — Robert Browning
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
