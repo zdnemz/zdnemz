@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It doesn't matter where you are, you are nowhere compared to where you can go."
+> "What's the point in being smart enough to read, if everything you read makes you dumb?"
 >
-> — Bob Proctor
+> — C. Sean McGee
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
