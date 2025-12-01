@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "What's the point in being smart enough to read, if everything you read makes you dumb?"
+> "You are not the drop in the ocean, but the ocean in the drop."
 >
-> — C. Sean McGee
+> — Deepak Chopra
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
