@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are not the drop in the ocean, but the ocean in the drop."
+> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
 >
-> — Deepak Chopra
+> — Steve Jobs
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
