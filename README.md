@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
+> "Believe in one thing too much and you have no room for new ideas.  "
 >
-> — Steve Jobs
+> — Ray Bradbury
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
