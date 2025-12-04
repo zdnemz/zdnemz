@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Believe in one thing too much and you have no room for new ideas.  "
+> "Problems remain as problems because people are busy defending them rather than finding solutions."
 >
-> — Ray Bradbury
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
