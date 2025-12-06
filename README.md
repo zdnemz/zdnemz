@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The foolish reject what they see, not what they think; the wise reject what they think, not what they see."
+> "He who can, does."
 >
-> — Huang Po
+> — George Bernard Shaw
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
