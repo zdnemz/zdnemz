@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He who can, does."
+> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
 >
-> — George Bernard Shaw
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
