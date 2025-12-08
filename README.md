@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
+> "If you do not push the boundaries, you will never know where they are."
 >
-> — Brian Tracy
+> — T.S. Eliot
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
