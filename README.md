@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you do not push the boundaries, you will never know where they are."
+> "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."
 >
-> — T.S. Eliot
+> — Amelia Earhart
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
