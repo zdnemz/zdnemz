@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
 >
-> — T.S. Eliot
+> — Albert Einstein
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
