@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+> "Most people achieved their greatest success one step beyond what looked like their greatest failure."
 >
-> — Albert Einstein
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
