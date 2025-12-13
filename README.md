@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Most people achieved their greatest success one step beyond what looked like their greatest failure."
+> "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."
 >
-> — Brian Tracy
+> — James Cameron
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
