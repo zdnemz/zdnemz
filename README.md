@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."
+> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."
 >
-> — James Cameron
+> — Elbert Hubbard
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
