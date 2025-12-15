@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."
+> "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."
 >
-> — Elbert Hubbard
+> — Dogen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
