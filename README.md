@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."
+> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."
 >
-> — Dogen
+> — Samuel Butler
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
