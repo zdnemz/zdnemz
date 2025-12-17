@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."
+> "Obstacles don't block the path, they are the path."
 >
-> — Samuel Butler
+> — Zen Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
