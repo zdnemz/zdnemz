@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Obstacles don't block the path, they are the path."
+> "We can see through others only when we can see through ourselves."
 >
-> — Zen Proverb
+> — Bruce Lee
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
