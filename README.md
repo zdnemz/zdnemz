@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We can see through others only when we can see through ourselves."
+> "Whatever you are, be a good one."
 >
-> — Bruce Lee
+> — Abraham Lincoln
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
