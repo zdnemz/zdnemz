@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Whatever you are, be a good one."
+> "Luck is a matter of preparation meeting opportunity."
 >
-> — Abraham Lincoln
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
