@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You'll get more from being a peacemaker than a warrior."
+> "Never spend your money before you have earned it."
 >
-> — Arnold Schwarzenegger
+> — Thomas Jefferson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
