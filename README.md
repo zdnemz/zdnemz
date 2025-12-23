@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Never spend your money before you have earned it."
+> "Longevity is a fleeting moment that lasts forever."
 >
-> — Thomas Jefferson
+> — Vidal Sassoon
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
