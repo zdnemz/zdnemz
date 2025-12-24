@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Longevity is a fleeting moment that lasts forever."
+> "Be brave to stand for what you believe in even if you stand alone."
 >
-> — Vidal Sassoon
+> — Roy T. Bennett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
