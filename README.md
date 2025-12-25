@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be brave to stand for what you believe in even if you stand alone."
+> "Muddy water is best cleared by leaving it alone."
 >
-> — Roy T. Bennett
+> — Alan Watts
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
