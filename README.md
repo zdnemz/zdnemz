@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Muddy water is best cleared by leaving it alone."
+> "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
 >
-> — Alan Watts
+> — Carl Bard
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
