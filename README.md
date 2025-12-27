@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
+> "Start the day with love, spend the day with love, fill the day with love and end the day with love."
 >
-> — Carl Bard
+> — Sathya Sai Baba
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
