@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Start the day with love, spend the day with love, fill the day with love and end the day with love."
+> "A crisis is an opportunity riding the dangerous wind."
 >
-> — Sathya Sai Baba
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
