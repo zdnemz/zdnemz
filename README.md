@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't let anyone define you. You define yourself."
+> "A Quitter never wins - and - a Winner never quits."
 >
-> — Billie Jean King
+> — Napoleon Hill
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
