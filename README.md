@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A Quitter never wins - and - a Winner never quits."
+> "We have to live life with a sense of urgency so not a minute is wasted."
 >
-> — Napoleon Hill
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
