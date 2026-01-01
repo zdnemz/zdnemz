@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We have to live life with a sense of urgency so not a minute is wasted."
+> "You have to make time, even for something as universal as staring at the stars."
 >
-> — Les Brown
+> — W.P. Kinsella
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
