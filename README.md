@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You have to make time, even for something as universal as staring at the stars."
+> "He who cheats the earth will be cheated by the earth."
 >
-> — W.P. Kinsella
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
