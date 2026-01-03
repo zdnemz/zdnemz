@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He who cheats the earth will be cheated by the earth."
+> "Far more crucial than what we know or do not know is what we do not want to know."
 >
-> — Chinese Proverb
+> — Eric Hoffer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
