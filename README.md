@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Far more crucial than what we know or do not know is what we do not want to know."
+> "Age is a very high price to pay for maturity."
 >
-> — Eric Hoffer
+> — William James
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
