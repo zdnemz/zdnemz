@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Age is a very high price to pay for maturity."
+> "When the world pushes you to your knees, you're in the perfect position to pray."
 >
-> — William James
+> — Rumi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
