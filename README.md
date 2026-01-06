@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When the world pushes you to your knees, you're in the perfect position to pray."
+> "Most people spend more time and energy going around problems than in trying to solve them. "
 >
-> — Rumi
+> — Henry Ford
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
