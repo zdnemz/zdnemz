@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Most people spend more time and energy going around problems than in trying to solve them. "
+> "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."
 >
-> — Henry Ford
+> — Dr. Seuss
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
