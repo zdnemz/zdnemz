@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."
+> "To be prepared is half the victory. "
 >
-> — Dr. Seuss
+> — Miguel de Cervantes
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
