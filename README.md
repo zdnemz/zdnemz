@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To be prepared is half the victory. "
+> "The most creative act you will ever undertake is the act of creating yourself."
 >
-> — Miguel de Cervantes
+> — Deepak Chopra
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
