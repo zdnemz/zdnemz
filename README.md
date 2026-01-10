@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The most creative act you will ever undertake is the act of creating yourself."
+> "A man who dares to waste one hour of time has not discovered the value of life."
 >
-> — Deepak Chopra
+> — Charles Darwin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
