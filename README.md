@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A man who dares to waste one hour of time has not discovered the value of life."
+> "Yesterday is gone. Tomorrow has not yet come. We have only today."
 >
-> — Charles Darwin
+> — Mother Teresa
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
