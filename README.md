@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Yesterday is gone. Tomorrow has not yet come. We have only today."
+> "Presents are made for the pleasure of who gives them, not the merits of who receives them."
 >
-> — Mother Teresa
+> — Carlos Ruiz Zafon
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
