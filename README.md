@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Presents are made for the pleasure of who gives them, not the merits of who receives them."
+> "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."
 >
-> — Carlos Ruiz Zafon
+> — Stephen King
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
