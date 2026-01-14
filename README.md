@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."
+> "You're always free to change your mind and choose a different future, or a different past."
 >
-> — Stephen King
+> — Richard Bach
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
