@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You're always free to change your mind and choose a different future, or a different past."
+> "To do two things at once is to do neither."
 >
-> — Richard Bach
+> — Publilius Syrus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
