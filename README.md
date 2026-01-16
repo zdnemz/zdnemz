@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To do two things at once is to do neither."
+> "The goal is not to be perfect by the end, the goal is to be better today."
 >
-> — Publilius Syrus
+> — Simon Sinek
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
