@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The goal is not to be perfect by the end, the goal is to be better today."
+> "Silence is a source of great strength."
 >
-> — Simon Sinek
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
