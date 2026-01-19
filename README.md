@@ -41,9 +41,9 @@ I love learning new things and sharing knowledge. I thrive in collaborative envi
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."
+> "It's better to dance than to march through life."
 >
-> — Robert Greene
+> — Yoko Ono
 <!-- QUOTEOTD:END -->
 
 ## 📬 Get in Touch
