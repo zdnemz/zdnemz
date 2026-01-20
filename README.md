@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It's better to dance than to march through life."
+> "Outstanding people have one thing in common: an absolute sense of mission.  "
 >
-> — Yoko Ono
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
