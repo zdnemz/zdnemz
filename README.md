@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Outstanding people have one thing in common: an absolute sense of mission.  "
+> "The friendship that can cease has never been real. "
 >
-> — Zig Ziglar
+> — St. Jerome
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
