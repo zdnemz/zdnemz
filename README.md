@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The friendship that can cease has never been real. "
+> "You need to be doing fewer things for more effect instead of doing more things with side effects."
 >
-> — St. Jerome
+> — Gary Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
