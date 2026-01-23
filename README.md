@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You need to be doing fewer things for more effect instead of doing more things with side effects."
+> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."
 >
-> — Gary Keller
+> — Robert Greene
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
