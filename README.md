@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."
+> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
 >
-> — Robert Greene
+> — Josh Waitzkin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
