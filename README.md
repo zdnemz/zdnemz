@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
+> "How you think is as important as as what you think."
 >
-> — Josh Waitzkin
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
