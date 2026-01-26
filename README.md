@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "How you think is as important as as what you think."
+> "You are free, and that is why you are lost. "
 >
-> — Unknown
+> — Franz Kafka
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
