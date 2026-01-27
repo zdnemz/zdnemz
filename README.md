@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are free, and that is why you are lost. "
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
 >
-> — Franz Kafka
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
