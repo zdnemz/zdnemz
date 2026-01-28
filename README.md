@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
+> "The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."
 >
-> — Eleanor Roosevelt
+> — Steve Maraboli
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
