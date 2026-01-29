@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."
+> "Silence is a source of great strength."
 >
-> — Steve Maraboli
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
