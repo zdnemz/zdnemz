@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Silence is a source of great strength."
+> "Your only obligation in any lifetime is to be true to yourself."
 >
-> — Lao Tzu
+> — Richard Bach
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
