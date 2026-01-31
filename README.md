@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your only obligation in any lifetime is to be true to yourself."
+> "Know yourself and you will win all battles."
 >
-> — Richard Bach
+> — Sun Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
