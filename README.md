@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Know yourself and you will win all battles."
+> "What you get by achieving your goals is not as important as what you become by achieving your goals."
 >
-> — Sun Tzu
+> — Henry David Thoreau
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
