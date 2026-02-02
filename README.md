@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "What you get by achieving your goals is not as important as what you become by achieving your goals."
+> "No one can hurt you without your consent."
 >
-> — Henry David Thoreau
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
