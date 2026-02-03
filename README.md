@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "No one can hurt you without your consent."
+> "No one ever said life was fair. Just Eventful."
 >
-> — Eleanor Roosevelt
+> — Carol Burnett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
