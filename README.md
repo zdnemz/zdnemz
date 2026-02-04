@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "No one ever said life was fair. Just Eventful."
+> "The more knowledge you have, the more you're free to rely on your instincts."
 >
-> — Carol Burnett
+> — Arnold Schwarzenegger
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
