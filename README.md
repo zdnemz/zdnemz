@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is a wisdom of the head, and there is a wisdom of the heart."
+> "Be happy now, without reason - or you never will be at all."
 >
-> — Charles Dickens
+> — Dan Millman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
