@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be happy now, without reason - or you never will be at all."
+> "Create each day anew."
 >
-> — Dan Millman
+> — Morihei Ueshiba
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
