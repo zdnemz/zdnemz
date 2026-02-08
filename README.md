@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Create each day anew."
+> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
 >
-> — Morihei Ueshiba
+> — Colin Powell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
