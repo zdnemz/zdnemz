@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
+> "You are not one person, but three: The one you think you are; The one others think you are; The one you really are."
 >
-> — Colin Powell
+> — Sathya Sai Baba
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
