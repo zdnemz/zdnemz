@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are not one person, but three: The one you think you are; The one others think you are; The one you really are."
+> "All great truths begin as blasphemies."
 >
-> — Sathya Sai Baba
+> — George Bernard Shaw
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
