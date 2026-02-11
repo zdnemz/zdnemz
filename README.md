@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "All great truths begin as blasphemies."
+> "Man's character is his fate."
 >
-> — George Bernard Shaw
+> — Heraclitus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
