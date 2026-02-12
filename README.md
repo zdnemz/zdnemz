@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Man's character is his fate."
+> "We are all self-made, but only the successful will admit it."
 >
-> — Heraclitus
+> — Earl Nightingale
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
