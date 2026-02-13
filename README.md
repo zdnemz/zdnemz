@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We are all self-made, but only the successful will admit it."
+> "All leaders are readers."
 >
-> — Earl Nightingale
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
