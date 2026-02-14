@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "All leaders are readers."
+> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
 >
-> — Jim Rohn
+> — Jonathan Swift
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
