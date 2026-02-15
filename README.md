@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
+> "If a thing is worth doing, it is worth doing badly."
 >
-> — Jonathan Swift
+> — Gilbert Chesterton
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
