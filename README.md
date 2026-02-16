@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If a thing is worth doing, it is worth doing badly."
+> "We are all born ignorant, but one must work hard to remain stupid."
 >
-> — Gilbert Chesterton
+> — Benjamin Franklin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
