@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We are all born ignorant, but one must work hard to remain stupid."
+> "Remember that sometimes not getting what you want is a wonderful stroke of luck."
 >
-> — Benjamin Franklin
+> — Dalai Lama
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
