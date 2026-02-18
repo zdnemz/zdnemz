@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Remember that sometimes not getting what you want is a wonderful stroke of luck."
+> "Rudeness is the weak man's imitation of strength."
 >
-> — Dalai Lama
+> — Eric Hoffer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
