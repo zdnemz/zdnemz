@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Rudeness is the weak man's imitation of strength."
+> "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "
 >
-> — Eric Hoffer
+> — Franz Kafka
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
