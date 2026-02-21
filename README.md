@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."
+> "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."
 >
-> — Benjamin Mays
+> — Ronald Reagan
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
