@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."
+> "To a mind that is still, the entire universe surrenders."
 >
-> — Ronald Reagan
+> — Zhuangzi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
