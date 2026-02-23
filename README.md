@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To a mind that is still, the entire universe surrenders."
+> "Children are our greatest natural resource."
 >
-> — Zhuangzi
+> — Herbert Hoover
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
