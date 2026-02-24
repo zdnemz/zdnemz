@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Children are our greatest natural resource."
+> "By failing to prepare, you are preparing to fail."
 >
-> — Herbert Hoover
+> — Benjamin Franklin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
