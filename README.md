@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "By failing to prepare, you are preparing to fail."
+> "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."
 >
-> — Benjamin Franklin
+> — Stephen King
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
