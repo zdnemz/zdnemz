@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."
+> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."
 >
-> — Stephen King
+> — Eckhart Tolle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
