@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."
+> "A comfort zone is a beautiful place, but nothing ever grows there."
 >
-> — Eckhart Tolle
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
