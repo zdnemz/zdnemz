@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A comfort zone is a beautiful place, but nothing ever grows there."
+> "It's your life-but only if you make it so."
 >
-> — Unknown
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
