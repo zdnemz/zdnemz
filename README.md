@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It's your life-but only if you make it so."
+> "The man who removes a mountain begins by carrying away small stones."
 >
-> — Eleanor Roosevelt
+> — William Faulkner
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
