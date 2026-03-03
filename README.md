@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The pain of parting is nothing to the joy of meeting again."
+> "It doesn't matter where you are coming from. All that matters is where you are going. "
 >
-> — Charles Dickens
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
