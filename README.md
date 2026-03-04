@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It doesn't matter where you are coming from. All that matters is where you are going. "
+> "You don't need a weatherman to know which way the wind blows."
 >
-> — Brian Tracy
+> — Bob Dylan
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
