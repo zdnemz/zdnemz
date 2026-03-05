@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You don't need a weatherman to know which way the wind blows."
+> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."
 >
-> — Bob Dylan
+> — John Eliot
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
