@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."
+> "Admire as much as you can. Most people do not admire enough."
 >
-> — John Eliot
+> — Vincent van Gogh
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
