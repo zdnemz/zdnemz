@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Admire as much as you can. Most people do not admire enough."
+> "The world doesn't always give you want, but it often gives you what you need."
 >
-> — Vincent van Gogh
+> — Naval Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
