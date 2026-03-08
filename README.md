@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The world doesn't always give you want, but it often gives you what you need."
+> "Everything flows, nothing stands still."
 >
-> — Naval Ravikant
+> — Heraclitus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
