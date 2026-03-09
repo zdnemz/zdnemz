@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everything flows, nothing stands still."
+> "You'll see it when you believe it. "
 >
-> — Heraclitus
+> — Wayne Dyer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
