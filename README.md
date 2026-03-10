@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You'll see it when you believe it. "
+> "We can spend our whole lives escaping from the monsters of our minds."
 >
-> — Wayne Dyer
+> — Pema Chodron
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
