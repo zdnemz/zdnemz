@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We can spend our whole lives escaping from the monsters of our minds."
+> "We cannot change anything unless we accept it."
 >
-> — Pema Chodron
+> — Carl Jung
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
