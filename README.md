@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We cannot change anything unless we accept it."
+> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
 >
-> — Carl Jung
+> — Criss Jami
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
