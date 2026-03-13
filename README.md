@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
+> "The best fighter is never angry."
 >
-> — Criss Jami
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
