@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The best fighter is never angry."
+> "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."
 >
-> — Lao Tzu
+> — Alfred Adler
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
