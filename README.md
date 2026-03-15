@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."
+> "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."
 >
-> — Alfred Adler
+> — Peter Drucker
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
