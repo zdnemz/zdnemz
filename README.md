@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
 >
-> — Emily Dickinson
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
