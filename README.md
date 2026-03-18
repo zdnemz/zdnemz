@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
+> "Giving back involves a certain amount of giving up."
 >
-> — Brian Tracy
+> — Colin Powell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
