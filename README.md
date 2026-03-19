@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Giving back involves a certain amount of giving up."
+> "Be fascinated instead of frustrated."
 >
-> — Colin Powell
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
