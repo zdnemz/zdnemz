@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be fascinated instead of frustrated."
+> "Simple words, repeated daily, can change your life."
 >
-> — Jim Rohn
+> — Maxime Lagace
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
