@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Simple words, repeated daily, can change your life."
+> "Life is what you make it. Always has been, always will be."
 >
-> — Maxime Lagace
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
