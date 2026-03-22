@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life is what you make it. Always has been, always will be."
+> "Excellence is not an exception, it is a prevailing attitude."
 >
-> — Eleanor Roosevelt
+> — Colin Powell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
