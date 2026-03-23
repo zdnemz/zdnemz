@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Excellence is not an exception, it is a prevailing attitude."
+> "You are now, and you do become, what you think about."
 >
-> — Colin Powell
+> — Earl Nightingale
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
