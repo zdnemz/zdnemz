@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are now, and you do become, what you think about."
+> "It's easier to lose than to win.  "
 >
-> — Earl Nightingale
+> — Wayne Gretzky
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
