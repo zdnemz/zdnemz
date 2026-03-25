@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It's easier to lose than to win.  "
+> "Everything you've ever wanted is on the other side of fear."
 >
-> — Wayne Gretzky
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
