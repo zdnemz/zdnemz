@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everything you've ever wanted is on the other side of fear."
+> "Write to help yourself, publish to help others."
 >
-> — Brian Tracy
+> — Jack Butcher
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
