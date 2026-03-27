@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Write to help yourself, publish to help others."
+> "Confidence is what you have before you understand the problem."
 >
-> — Jack Butcher
+> — Woody Allen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
