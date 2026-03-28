@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Confidence is what you have before you understand the problem."
+> "Intense love does not measure, it just gives."
 >
-> — Woody Allen
+> — Mother Teresa
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
