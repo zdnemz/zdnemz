@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."
+> "Success is about creating value."
 >
-> — Brian Tracy
+> — Candice Carpenter
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
