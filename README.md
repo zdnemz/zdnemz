@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Success is about creating value."
+> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
 >
-> — Candice Carpenter
+> — Virginia Woolf
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
