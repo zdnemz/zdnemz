@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
+> "It's not the men in your life that matters, it's the life in your men."
 >
-> — Virginia Woolf
+> — Mae West
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
