@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It's not the men in your life that matters, it's the life in your men."
+> "If I can laugh, I can live."
 >
-> — Mae West
+> — Christopher Reeve
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
