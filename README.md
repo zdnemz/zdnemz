@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Ideas do not reach perfection in a day, no matter how much study is put upon them."
+> "Everybody needs a passion. That's what keeps life interesting."
 >
-> — Alexander Graham Bell
+> — Betty White
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
