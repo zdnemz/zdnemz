@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everybody needs a passion. That's what keeps life interesting."
+> "If you are going to achieve excellence in big things, you develop the habit in little matters."
 >
-> — Betty White
+> — Colin Powell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
