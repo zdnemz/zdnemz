@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you are going to achieve excellence in big things, you develop the habit in little matters."
+> "Don't wish it were easier, wish you were better."
 >
-> — Colin Powell
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
