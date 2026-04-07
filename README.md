@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't wish it were easier, wish you were better."
+> "Your gift is something that you can do innately better than anything else."
 >
-> — Jim Rohn
+> — Steve Harvey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
