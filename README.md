@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your gift is something that you can do innately better than anything else."
+> "It's OK to have your eggs in one basket as long as you control what happens to that basket."
 >
-> — Steve Harvey
+> — Elon Musk
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
