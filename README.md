@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It's OK to have your eggs in one basket as long as you control what happens to that basket."
+> "The greatest treasures are those invisible to the eye but found by the heart."
 >
-> — Elon Musk
+> — Judy Garland
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
