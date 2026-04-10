@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The greatest treasures are those invisible to the eye but found by the heart."
+> "He who wishes to be obeyed must know how to command."
 >
-> — Judy Garland
+> — Niccolo Machiavelli
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
