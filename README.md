@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He who wishes to be obeyed must know how to command."
+> "I can live without money, but I cannot live without love."
 >
-> — Niccolo Machiavelli
+> — Judy Garland
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
