@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I can live without money, but I cannot live without love."
+> "Enjoy life. There's plenty of time to be dead."
 >
-> — Judy Garland
+> — Hans Christian Andersen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
