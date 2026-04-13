@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Enjoy life. There's plenty of time to be dead."
+> "A mistake is only an error, it becomes a mistake when you fail to correct it."
 >
-> — Hans Christian Andersen
+> — John Lennon
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
