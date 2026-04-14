@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A mistake is only an error, it becomes a mistake when you fail to correct it."
+> "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."
 >
-> — John Lennon
+> — Ralph Marston
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
