@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."
+> "Truth is such a rare thing, it is delighted to tell it."
 >
-> — Ralph Marston
+> — Emily Dickinson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
