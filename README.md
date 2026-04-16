@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Truth is such a rare thing, it is delighted to tell it."
+> "Respect was invented to cover the empty place where love should be."
 >
-> — Emily Dickinson
+> — Leo Tolstoy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
