@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Respect was invented to cover the empty place where love should be."
+> "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."
 >
-> — Leo Tolstoy
+> — G.I. Gurdjieff
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
