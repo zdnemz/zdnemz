@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."
+> "Still your waters."
 >
-> — G.I. Gurdjieff
+> — Josh Waitzkin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
