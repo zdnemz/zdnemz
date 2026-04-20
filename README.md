@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."
+> "Freedom lies in being bold."
 >
-> — Zig Ziglar
+> — Robert Frost
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
