@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Freedom lies in being bold."
+> "Your heart is the size of an ocean. Go find yourself in its hidden depths."
 >
-> — Robert Frost
+> — Rumi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
