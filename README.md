@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your heart is the size of an ocean. Go find yourself in its hidden depths."
+> "When you judge another, you do not define them, you define yourself"
 >
-> — Rumi
+> — Wayne Dyer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
