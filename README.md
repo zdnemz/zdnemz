@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you judge another, you do not define them, you define yourself"
+> "The only reason to be alive is to enjoy it."
 >
-> — Wayne Dyer
+> — Rita Mae Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
