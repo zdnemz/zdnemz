@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The only reason to be alive is to enjoy it."
+> "You can't get to a place that you don't believe exists."
 >
-> — Rita Mae Brown
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
