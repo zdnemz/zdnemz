@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You can't get to a place that you don't believe exists."
+> "Even if you persuade me, you won't persuade me."
 >
-> — Unknown
+> — Aristophanes
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
