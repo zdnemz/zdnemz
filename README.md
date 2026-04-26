@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Even if you persuade me, you won't persuade me."
+> "In the middle of difficulty lies opportunity."
 >
-> — Aristophanes
+> — Albert Einstein
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
