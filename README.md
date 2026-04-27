@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "In the middle of difficulty lies opportunity."
+> "I'm an optimist by choice not by stupidity."
 >
-> — Albert Einstein
+> — Yanni
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
