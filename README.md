@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I'm an optimist by choice not by stupidity."
+> "Self-knowledge is the beginning of self-correction."
 >
-> — Yanni
+> — Norman Vincent Peale
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
