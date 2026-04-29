@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Self-knowledge is the beginning of self-correction."
+> "Over time, loneliness gets inside you and doesn't go away."
 >
-> — Norman Vincent Peale
+> — Carlos Ruiz Zafon
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
