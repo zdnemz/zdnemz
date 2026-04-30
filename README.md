@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Over time, loneliness gets inside you and doesn't go away."
+> "Those who cannot change their minds cannot change anything."
 >
-> — Carlos Ruiz Zafon
+> — George Bernard Shaw
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
