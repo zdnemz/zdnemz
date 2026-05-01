@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Those who cannot change their minds cannot change anything."
+> "Duty makes us do things well, but love makes us do them beautifully.  "
 >
-> — George Bernard Shaw
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
