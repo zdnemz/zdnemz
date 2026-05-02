@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Duty makes us do things well, but love makes us do them beautifully.  "
+> "Confidence is contagious. So is lack of confidence."
 >
-> — Zig Ziglar
+> — Vince Lombardi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
