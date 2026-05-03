@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Confidence is contagious. So is lack of confidence."
+> "Your best life will not be found in comfort. It will be found in fighting for what you believe in."
 >
-> — Vince Lombardi
+> — Maxime Lagace
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
