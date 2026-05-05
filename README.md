@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
+> "Throw your heart over the bar and your body will follow."
 >
-> — Sun Tzu
+> — Norman Vincent Peale
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
