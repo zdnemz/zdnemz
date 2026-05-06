@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Throw your heart over the bar and your body will follow."
+> "If what you're doing is not your passion, you have nothing to lose."
 >
-> — Norman Vincent Peale
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
