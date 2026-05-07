@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If what you're doing is not your passion, you have nothing to lose."
+> "It's the possibility of having a dream come true that makes life interesting."
 >
-> — Celestine Chua
+> — Paulo Coelho
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
