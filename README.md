@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."
+> "The majority of what you want will come from the minority of what you do."
 >
-> — Zig Ziglar
+> — Gary Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
