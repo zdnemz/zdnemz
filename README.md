@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The majority of what you want will come from the minority of what you do."
+> "We don't stop playing because we grow old; we grow old because we stop playing."
 >
-> — Gary Keller
+> — George Bernard Shaw
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
