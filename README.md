@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We don't stop playing because we grow old; we grow old because we stop playing."
+> "A zen master's life is one continuous mistake."
 >
-> — George Bernard Shaw
+> — Dogen
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
