@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A zen master's life is one continuous mistake."
+> "Animals don't hate, and we're supposed to be better than them."
 >
-> — Dogen
+> — Elvis Presley
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
