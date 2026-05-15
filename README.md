@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Animals don't hate, and we're supposed to be better than them."
+> "You are never too old to set another goal or to dream a new dream."
 >
-> — Elvis Presley
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
