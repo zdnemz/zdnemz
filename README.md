@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You are never too old to set another goal or to dream a new dream."
+> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
 >
-> — Les Brown
+> — Emily Dickinson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
