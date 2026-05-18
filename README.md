@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
+> "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."
 >
-> — Emily Dickinson
+> — Dan Millman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
