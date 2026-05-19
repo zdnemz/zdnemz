@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."
+> "We make a living by what we get, but we make a life by what we give."
 >
-> — Dan Millman
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
