@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We make a living by what we get, but we make a life by what we give."
+> "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."
 >
-> — Unknown
+> — Paramahansa Yogananda
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
