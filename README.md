@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."
+> "If you're really truthful with yourself, it's a wonderful guidance.  "
 >
-> — Paramahansa Yogananda
+> — Charlie Chaplin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
