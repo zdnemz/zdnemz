@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you're really truthful with yourself, it's a wonderful guidance.  "
+> "Talk to someone about themselves and they'll listen for hours."
 >
-> — Charlie Chaplin
+> — Dale Carnegie
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
