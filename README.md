@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Talk to someone about themselves and they'll listen for hours."
+> "It is not enough to win a war; it is more important to organize the peace."
 >
-> — Dale Carnegie
+> — Aristotle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
