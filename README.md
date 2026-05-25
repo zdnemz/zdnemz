@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is not enough to win a war; it is more important to organize the peace."
+> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."
 >
-> — Aristotle
+> — Dan Millman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
