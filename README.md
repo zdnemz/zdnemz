@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."
+> "Learn only how to avoid seeking for and attaching yourselves to anything."
 >
-> — Dan Millman
+> — Huang Po
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
