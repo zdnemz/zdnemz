@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Learn only how to avoid seeking for and attaching yourselves to anything."
+> "Being wrong opens us up to the possibility of change."
 >
-> — Huang Po
+> — Mark Manson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
