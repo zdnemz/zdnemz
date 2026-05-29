@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Being wrong opens us up to the possibility of change."
+> "Do something to move yourself toward your major goal every day."
 >
-> — Mark Manson
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
