@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."
+> "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."
 >
-> — John Eliot
+> — Spencer Johnson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
