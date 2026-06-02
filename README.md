@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."
+> "The only thing worse than being blind is having sight but no vision."
 >
-> — Spencer Johnson
+> — Helen Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
