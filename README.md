@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The only thing worse than being blind is having sight but no vision."
+> "You are always your own best guru, your own best teacher, the answers are always inside you."
 >
-> — Helen Keller
+> — Sathya Sai Baba
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
