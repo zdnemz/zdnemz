@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "One of the most difficult things is not to change society - but to change yourself."
+> "A lot of people have gone further than they thought they could because someone else thought they could."
 >
-> — Nelson Mandela
+> — Zig Ziglar
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
