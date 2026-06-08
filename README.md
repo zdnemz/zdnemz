@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A lot of people have gone further than they thought they could because someone else thought they could."
+> "I like the dreams of the future better than the history of the past."
 >
-> — Zig Ziglar
+> — Thomas Jefferson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
