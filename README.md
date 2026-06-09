@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I like the dreams of the future better than the history of the past."
+> "Given the choice between the experience of pain and nothing, I would choose pain."
 >
-> — Thomas Jefferson
+> — William Faulkner
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
