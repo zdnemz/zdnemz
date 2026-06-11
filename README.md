@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Given the choice between the experience of pain and nothing, I would choose pain."
+> "Every man desires to live long, but no man wishes to be old."
 >
-> — William Faulkner
+> — Jonathan Swift
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
