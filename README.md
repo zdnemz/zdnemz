@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Every man desires to live long, but no man wishes to be old."
+> "The future depends on what you do today."
 >
-> — Jonathan Swift
+> — Mahatma Gandhi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
