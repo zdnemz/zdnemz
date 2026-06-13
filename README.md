@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The future depends on what you do today."
+> "You can't build a reputation on what you are going to do."
 >
-> — Mahatma Gandhi
+> — Henry Ford
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
