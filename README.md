@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You can't build a reputation on what you are going to do."
+> "Your dream has to be bigger than your fear."
 >
-> — Henry Ford
+> — Steve Harvey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
