@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Your dream has to be bigger than your fear."
+> "The road to success is always under construction.."
 >
-> — Steve Harvey
+> — Lily Tomlin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
