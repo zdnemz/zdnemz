@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The road to success is always under construction.."
+> "But better die than live mechanically a life that is a repetition of repetitions."
 >
-> — Lily Tomlin
+> — D. H. Lawrence
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
