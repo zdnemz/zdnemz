@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "But better die than live mechanically a life that is a repetition of repetitions."
+> "All we have to decide is what to do with the time that is given to us."
 >
-> — D. H. Lawrence
+> — J.R.R. Tolkien
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
