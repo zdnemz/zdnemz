@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "All we have to decide is what to do with the time that is given to us."
+> "Let us rather run the risk of wearing out than rusting out."
 >
-> — J.R.R. Tolkien
+> — Theodore Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
