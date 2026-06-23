@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Let us rather run the risk of wearing out than rusting out."
+> "You may be one person in this world, but to one person you may mean the world."
 >
-> — Theodore Roosevelt
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
