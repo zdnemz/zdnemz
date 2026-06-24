@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You may be one person in this world, but to one person you may mean the world."
+> "You're on earth. There's no cure for that."
 >
-> — Unknown
+> — Samuel Beckett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
