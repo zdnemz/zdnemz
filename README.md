@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You're on earth. There's no cure for that."
+> "The best fighter is never angry."
 >
-> — Samuel Beckett
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
