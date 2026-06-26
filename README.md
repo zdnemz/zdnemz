@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The best fighter is never angry."
+> "It is dangerous to be right in matters on which the established authorities are wrong."
 >
-> — Lao Tzu
+> — Voltaire
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
