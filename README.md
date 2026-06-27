@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is dangerous to be right in matters on which the established authorities are wrong."
+> "Do Something. If it works, do more of it. If it doesn't, do something else."
 >
-> — Voltaire
+> — Franklin D. Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
