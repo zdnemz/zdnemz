@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Do Something. If it works, do more of it. If it doesn't, do something else."
+> "Truth is the offspring of silence and meditation."
 >
-> — Franklin D. Roosevelt
+> — Isaac Newton
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
