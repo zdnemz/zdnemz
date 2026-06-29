@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Truth is the offspring of silence and meditation."
+> "All leaders are readers."
 >
-> — Isaac Newton
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
