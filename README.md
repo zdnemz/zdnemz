@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "All leaders are readers."
+> "To create more positive results in your life, replace 'if only' with 'next time'."
 >
-> — Jim Rohn
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
