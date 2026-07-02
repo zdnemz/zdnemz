@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To create more positive results in your life, replace 'if only' with 'next time'."
+> "No one ever said life was fair. Just Eventful."
 >
-> — Celestine Chua
+> — Carol Burnett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
