@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "No one ever said life was fair. Just Eventful."
+> "One of the advantages of being disorganized is that one is always having surprising discoveries."
 >
-> — Carol Burnett
+> — A.A. Milne
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
