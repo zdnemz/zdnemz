@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "One of the advantages of being disorganized is that one is always having surprising discoveries."
+> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."
 >
-> — A.A. Milne
+> — Sun Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
