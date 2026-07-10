@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."
+> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
 >
-> — Steve Maraboli
+> — Kamal Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
