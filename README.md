@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
+> "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."
 >
-> — Kamal Ravikant
+> — Ray Bradbury
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
