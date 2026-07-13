@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Success is a consequence and must not be a goal."
+> "Words, once they are printed, have a life of their own."
 >
-> — Gustave Flaubert
+> — Carol Burnett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
