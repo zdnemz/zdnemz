@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Words, once they are printed, have a life of their own."
+> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."
 >
-> — Carol Burnett
+> — Kamal Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
