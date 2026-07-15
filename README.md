@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."
+> "There's no next time. It's now or never."
 >
-> — Kamal Ravikant
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
