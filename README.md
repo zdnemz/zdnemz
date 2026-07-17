@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There's no next time. It's now or never."
+> "Death and life have their determined appointments; riches and honors depend upon heaven."
 >
-> — Celestine Chua
+> — Confucius
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
