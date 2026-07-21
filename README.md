@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "An action committed in anger is an action doomed to failure."
+> "Do Something. If it works, do more of it. If it doesn't, do something else."
 >
-> — Genghis Khan
+> — Franklin D. Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
