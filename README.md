@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Do Something. If it works, do more of it. If it doesn't, do something else."
+> "Nothing makes a man broad-minded like adversity."
 >
-> — Franklin D. Roosevelt
+> — Will Rogers
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
