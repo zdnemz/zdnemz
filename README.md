@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Nothing makes a man broad-minded like adversity."
+> "You have the potential for greatness."
 >
-> — Will Rogers
+> — Steve Harvey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
