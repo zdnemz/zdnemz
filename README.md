@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "You have the potential for greatness."
+> "Change is hard at first, messy in the middle and gorgeous at the end."
 >
-> — Steve Harvey
+> — Robin Sharma
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
