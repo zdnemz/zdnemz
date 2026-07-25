@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Change is hard at first, messy in the middle and gorgeous at the end."
+> "It is amazing what you can accomplish if you do not care who gets the credit."
 >
-> — Robin Sharma
+> — Harry S. Truman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
