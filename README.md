@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is amazing what you can accomplish if you do not care who gets the credit."
+> "Let us rather run the risk of wearing out than rusting out."
 >
-> — Harry S. Truman
+> — Theodore Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
