@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Let us rather run the risk of wearing out than rusting out."
+> "Be kind, for everyone you meet is fighting a harder battle."
 >
-> — Theodore Roosevelt
+> — Plato
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
