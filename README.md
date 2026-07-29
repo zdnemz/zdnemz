@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be kind, for everyone you meet is fighting a harder battle."
+> "If you let your head get too big, it'll break your neck."
 >
-> — Plato
+> — Elvis Presley
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
