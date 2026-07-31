@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It isn't that they can't see the solution. It is that they can't see the problem."
+> "New beginnings are disguised as painful endings."
 >
-> — Gilbert Chesterton
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
