@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "New beginnings are disguised as painful endings."
+> "Expect the best of yourself, and then do what is necessary to make it a reality."
 >
-> — Lao Tzu
+> — Ralph Marston
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
