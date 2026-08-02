@@ -73,9 +73,9 @@ I am a fast learner, highly productive, and continuously building self-initiated
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Expect the best of yourself, and then do what is necessary to make it a reality."
+> "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."
 >
-> — Ralph Marston
+> — Joan Rivers
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
