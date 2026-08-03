@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."
+> "It all depends on what you choose to believe."
 >
-> — Joan Rivers
+> — Spencer Johnson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
