@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It all depends on what you choose to believe."
+> "Love never keeps a man from pursuing his destiny."
 >
-> — Spencer Johnson
+> — Paulo Coelho
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
