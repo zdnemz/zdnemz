@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Love never keeps a man from pursuing his destiny."
+> "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
 >
-> — Paulo Coelho
+> — Epictetus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
