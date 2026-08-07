@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Talk sense to a fool and he calls you foolish."
+> "Ability is a poor man's wealth."
 >
-> — Euripides
+> — John Wooden
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
