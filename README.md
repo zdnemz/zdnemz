@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Ability is a poor man's wealth."
+> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."
 >
-> — John Wooden
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
