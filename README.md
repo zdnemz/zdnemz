@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."
+> "Magic is believing in yourself, if you can do that, you can make anything happen."
 >
-> — Oprah Winfrey
+> — Johann Wolfgang von Goethe
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
