@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Magic is believing in yourself, if you can do that, you can make anything happen."
+> "Correct what you can. Learn from what you can't."
 >
-> — Johann Wolfgang von Goethe
+> — Toni Morrison
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
