@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Correct what you can. Learn from what you can't."
+> "Still your waters."
 >
-> — Toni Morrison
+> — Josh Waitzkin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
