@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Still your waters."
+> "Sadness is but a wall between two gardens."
 >
-> — Josh Waitzkin
+> — Kahlil Gibran
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
