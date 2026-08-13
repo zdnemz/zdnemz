@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Sadness is but a wall between two gardens."
+> "Keep your face to the sunshine and you cannot see the shadows."
 >
-> — Kahlil Gibran
+> — Helen Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
