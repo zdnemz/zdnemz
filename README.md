@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Keep your face to the sunshine and you cannot see the shadows."
+> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."
 >
-> — Helen Keller
+> — Gary Keller
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
