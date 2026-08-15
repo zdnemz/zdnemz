@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."
+> "Man suffers only because he takes seriously what the gods made for fun."
 >
-> — Gary Keller
+> — Alan Watts
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
