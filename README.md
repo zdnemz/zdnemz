@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Man suffers only because he takes seriously what the gods made for fun."
+> "Motivation is what gets you started. Habit is what keeps you going."
 >
-> — Alan Watts
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
