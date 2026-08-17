@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Motivation is what gets you started. Habit is what keeps you going."
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
 >
-> — Jim Rohn
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
