@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Why change? Everyone has his own style. When you have found it, you should stick to it."
+> "No matter how tall the mountain is, it cannot block the sun."
 >
-> — Audrey Hepburn
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
