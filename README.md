@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Listen to the secret sound, the real sound, which is inside you."
+> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
 >
-> — Kabir
+> — Nikola Tesla
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
