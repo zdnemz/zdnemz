@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+> "The biggest adventure you can ever take is to live the life of your dreams."
 >
-> — Nikola Tesla
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
