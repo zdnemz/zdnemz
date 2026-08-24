@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The biggest adventure you can ever take is to live the life of your dreams."
+> "The quicker you let go of old cheese, the sooner you find new cheese."
 >
-> — Oprah Winfrey
+> — Spencer Johnson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
