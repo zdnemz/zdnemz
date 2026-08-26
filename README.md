@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."
+> "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."
 >
-> — Denis Waitley
+> — Charles Dickens
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
