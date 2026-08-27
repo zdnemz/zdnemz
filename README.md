@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."
+> "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."
 >
-> — Charles Dickens
+> — Richard Bach
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
