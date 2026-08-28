@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."
+> "Whatever you decide to do, make sure it makes you happy."
 >
-> — Richard Bach
+> — Paulo Coelho
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
