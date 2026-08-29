@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Whatever you decide to do, make sure it makes you happy."
+> "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."
 >
-> — Paulo Coelho
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
