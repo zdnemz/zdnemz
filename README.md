@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."
+> "Keep your eyes on the goal, and just keep taking the next step towards completing it."
 >
-> — Celestine Chua
+> — John Carmack
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
