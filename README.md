@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Keep your eyes on the goal, and just keep taking the next step towards completing it."
+> "To a mind that is still, the entire universe surrenders."
 >
-> — John Carmack
+> — Zhuangzi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
