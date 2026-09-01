@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To a mind that is still, the entire universe surrenders."
+> "Stop wasting time defending your problems and work on addressing them instead."
 >
-> — Zhuangzi
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
