@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Stop wasting time defending your problems and work on addressing them instead."
+> "Force has no place where there is need of skill."
 >
-> — Celestine Chua
+> — Herodotus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
