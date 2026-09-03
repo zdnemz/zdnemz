@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Force has no place where there is need of skill."
+> "If you don't find the time, if you don't do the work, you don't get the results."
 >
-> — Herodotus
+> — Arnold Schwarzenegger
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
