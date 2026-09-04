@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you don't find the time, if you don't do the work, you don't get the results."
+> "Do good by stealth, and blush to find it fame."
 >
-> — Arnold Schwarzenegger
+> — Alexander Pope
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
