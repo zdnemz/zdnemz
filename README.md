@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Do good by stealth, and blush to find it fame."
+> "However difficult life may seem, there is always something you can do and succeed at."
 >
-> — Alexander Pope
+> — Stephen Hawking
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
