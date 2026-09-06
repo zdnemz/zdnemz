@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "However difficult life may seem, there is always something you can do and succeed at."
+> "A man with outward courage dares to die: a man with inner courage dares to live."
 >
-> — Stephen Hawking
+> — Lao Tzu
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
