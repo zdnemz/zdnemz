@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A man with outward courage dares to die: a man with inner courage dares to live."
+> "The greatest treasures are those invisible to the eye but found by the heart."
 >
-> — Lao Tzu
+> — Judy Garland
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
