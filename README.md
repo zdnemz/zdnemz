@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The greatest treasures are those invisible to the eye but found by the heart."
+> "High thoughts must have high language."
 >
-> — Judy Garland
+> — Aristophanes
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
