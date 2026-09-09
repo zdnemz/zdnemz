@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "High thoughts must have high language."
+> "We are all like the bright moon, we still have our darker side."
 >
-> — Aristophanes
+> — Kahlil Gibran
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
