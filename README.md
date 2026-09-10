@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We are all like the bright moon, we still have our darker side."
+> "Simple words, repeated daily, can change your life."
 >
-> — Kahlil Gibran
+> — Maxime Lagace
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
