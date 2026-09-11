@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Simple words, repeated daily, can change your life."
+> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
 >
-> — Maxime Lagace
+> — Ming-Dao Deng
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
