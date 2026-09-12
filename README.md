@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
+> "He who leaves the game wins it."
 >
-> — Ming-Dao Deng
+> — Nicolas Chamfort
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
