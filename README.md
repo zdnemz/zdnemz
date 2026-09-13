@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "He who leaves the game wins it."
+> "Everyday is a second chance."
 >
-> — Nicolas Chamfort
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
