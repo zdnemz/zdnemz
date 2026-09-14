@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everyday is a second chance."
+> "If you spend too much time thinking about a thing, you'll never get it done."
 >
-> — Unknown
+> — Bruce Lee
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
