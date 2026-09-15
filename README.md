@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you spend too much time thinking about a thing, you'll never get it done."
+> "Knowing yourself is the beginning of all wisdom."
 >
-> — Bruce Lee
+> — Aristotle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
