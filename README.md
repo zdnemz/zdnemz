@@ -75,9 +75,9 @@ Most of what I build is self-directed, so I'm used to owning a system from schem
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Knowing yourself is the beginning of all wisdom."
+> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
 >
-> — Aristotle
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
