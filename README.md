@@ -8,12 +8,7 @@ Fullstack Engineer • TypeScript • Next.js & Hono • Remote
 
 ## 👨‍💻 About Me
 
-I am a **Fullstack Engineer** with **3 years of experience building production web applications, two of them freelance**.
-
-I ship end-to-end — Next.js on the front, Hono APIs and Drizzle/PostgreSQL on the back, Redis where it earns its place — and write tests and CI for the things that matter.  
-I also reach for Solidity and Rust when a problem calls for it, including a 21-contract on-chain protocol with no admin key after deployment.
-
-Most of what I build is self-directed, so I'm used to owning a system from schema to deploy without hand-holding — and open to remote contract or full-time roles.
+Fullstack developer with three years of mostly self-directed freelance experience, building production web systems and security-focused applications. I work primarily with Next.js, Hono, PostgreSQL, and TypeScript, with additional experience in cryptography and blockchain development using Solidity. I enjoy working on systems where correctness, security, and trust boundaries matter, from application architecture and database security to on-chain protocols.
 
 ---
 
