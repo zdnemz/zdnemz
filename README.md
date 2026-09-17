@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
+> "When things go wrong, don't go with them."
 >
-> — Brian Tracy
+> — Elvis Presley
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
