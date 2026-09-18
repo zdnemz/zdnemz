@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When things go wrong, don't go with them."
+> "Till it has loved, no man or woman can become itself."
 >
-> — Elvis Presley
+> — Emily Dickinson
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
