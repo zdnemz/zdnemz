@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Till it has loved, no man or woman can become itself."
+> "Make your mind your own business."
 >
-> — Emily Dickinson
+> — Jack Butcher
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
