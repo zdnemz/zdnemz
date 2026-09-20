@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Make your mind your own business."
+> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."
 >
-> — Jack Butcher
+> — Henry Ward Beecher
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
