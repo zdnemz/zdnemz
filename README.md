@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."
+> "The smallest act of kindness is worth more than the greatest intention."
 >
-> — Henry Ward Beecher
+> — Kahlil Gibran
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
