@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The smallest act of kindness is worth more than the greatest intention."
+> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."
 >
-> — Kahlil Gibran
+> — Samuel Butler
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
