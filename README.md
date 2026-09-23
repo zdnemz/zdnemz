@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."
+> "When we strive to become better than we are, everything around us becomes better, too."
 >
-> — Samuel Butler
+> — Paulo Coelho
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
