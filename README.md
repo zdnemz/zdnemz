@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When we strive to become better than we are, everything around us becomes better, too."
+> "You are what you believe in. You become that which you believe you can become."
 >
-> — Paulo Coelho
+> — Bhagavad Gita
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
