@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Give so much away people insist on paying you."
+> "If you get up one more time than you fall, you will make it through."
 >
-> — Jack Butcher
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
