@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you get up one more time than you fall, you will make it through."
+> "Don't let your learning lead to knowledge. Let your learning lead to action."
 >
-> — Chinese Proverb
+> — Jim Rohn
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
