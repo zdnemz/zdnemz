@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Don't let your learning lead to knowledge. Let your learning lead to action."
+> "One mistake does not have to rule a person's entire life."
 >
-> — Jim Rohn
+> — Joyce Meyer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
