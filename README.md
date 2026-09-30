@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Silence is a source of great strength."
+> "If you've made a mistake, it's better just to laugh at it."
 >
-> — Lao Tzu
+> — Zen Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
