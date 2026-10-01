@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you've made a mistake, it's better just to laugh at it."
+> "When you stop questioning, you stop learning."
 >
-> — Zen Proverb
+> — Lolly Daskal
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
