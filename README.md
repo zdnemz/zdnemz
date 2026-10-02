@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you stop questioning, you stop learning."
+> "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
 >
-> — Lolly Daskal
+> — Nelson Mandela
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
