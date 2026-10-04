@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We are born from a quiet sleep, and we die to a calm awakening"
+> "Would you rather learn to deal with the truth now than be forced to do so later on?"
 >
-> — Zhuangzi
+> — Celestine Chua
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
