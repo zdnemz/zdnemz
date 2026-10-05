@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Would you rather learn to deal with the truth now than be forced to do so later on?"
+> "Engage in those actions and thoughts that nurture the good qualities you want to have."
 >
-> — Celestine Chua
+> — Paramahansa Yogananda
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
