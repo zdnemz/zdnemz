@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Engage in those actions and thoughts that nurture the good qualities you want to have."
+> "A gentleman is one who puts more into the world than he takes out."
 >
-> — Paramahansa Yogananda
+> — George Bernard Shaw
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
