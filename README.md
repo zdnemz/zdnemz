@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A gentleman is one who puts more into the world than he takes out."
+> "Be happy now, without reason - or you never will be at all."
 >
-> — George Bernard Shaw
+> — Dan Millman
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
