@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Be happy now, without reason - or you never will be at all."
+> "Success is not how high you have climbed, but how you make a positive difference to the world."
 >
-> — Dan Millman
+> — Roy T. Bennett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
