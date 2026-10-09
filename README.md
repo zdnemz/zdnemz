@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Zidane 👋</h1>
 
 <p align="center">
-Fullstack Engineer • TypeScript • Next.js & Hono • Remote
+Fullstack AI Developer • TypeScript • Next.js & Hono • Remote
 </p>
 
 ---
