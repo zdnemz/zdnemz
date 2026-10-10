@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool."
+> "Ability is a poor man's wealth."
 >
-> — Ray Bradbury
+> — John Wooden
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
