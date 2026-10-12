@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Ability is a poor man's wealth."
+> "Those who know, do. Those that understand, teach."
 >
-> — John Wooden
+> — Aristotle
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
