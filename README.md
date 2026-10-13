@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Those who know, do. Those that understand, teach."
+> "Life can be the scariest and most beautiful thing simultaneously."
 >
-> — Aristotle
+> — Maxime Lagace
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
