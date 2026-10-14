@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Life can be the scariest and most beautiful thing simultaneously."
+> "Genius is one percent inspiration and ninety-nine percent perspiration."
 >
-> — Maxime Lagace
+> — Thomas Edison
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
