@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Genius is one percent inspiration and ninety-nine percent perspiration."
+> "Everything eaten is killed. Every meal is a sacrifice."
 >
-> — Thomas Edison
+> — Adi Da Samraj
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
