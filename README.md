@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Everything eaten is killed. Every meal is a sacrifice."
+> "As we first succeed, we will find ourselves in new situations, facing new problems."
 >
-> — Adi Da Samraj
+> — Ryan Holiday
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
