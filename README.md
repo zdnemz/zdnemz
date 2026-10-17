@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "As we first succeed, we will find ourselves in new situations, facing new problems."
+> "You've got to get up every morning with determination if you're going to go to bed with satisfaction."
 >
-> — Ryan Holiday
+> — George Lorimer
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
