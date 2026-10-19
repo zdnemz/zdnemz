@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The greater the impact you want to make, the greater your influence needs to be."
+> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
 >
-> — Lolly Daskal
+> — Colin R. Davis
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
