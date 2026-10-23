@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
 >
-> — Mark Twain
+> — Eleanor Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
