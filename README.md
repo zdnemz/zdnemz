@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."
+> "The wiser you get, the less you care to look like a fool."
 >
-> — Henry Ward Beecher
+> — Maxime Lagace
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
