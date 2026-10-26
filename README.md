@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The wiser you get, the less you care to look like a fool."
+> "Loving thoughts and actions are clearly beneficial for our physical and mental health."
 >
-> — Maxime Lagace
+> — Dalai Lama
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
