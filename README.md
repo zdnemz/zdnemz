@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Loving thoughts and actions are clearly beneficial for our physical and mental health."
+> "Still your waters."
 >
-> — Dalai Lama
+> — Josh Waitzkin
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
