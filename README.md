@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Still your waters."
+> "What we dwell on is who we become."
 >
-> — Josh Waitzkin
+> — Oprah Winfrey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
