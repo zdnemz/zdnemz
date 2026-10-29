@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "What we dwell on is who we become."
+> "The more reasons you have for achieving your goal, the more determined you will become."
 >
-> — Oprah Winfrey
+> — Brian Tracy
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
