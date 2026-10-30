@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The more reasons you have for achieving your goal, the more determined you will become."
+> "Distant water does not put out a nearby fire."
 >
-> — Brian Tracy
+> — Chinese Proverb
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
