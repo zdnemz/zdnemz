@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Distant water does not put out a nearby fire."
+> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."
 >
-> — Chinese Proverb
+> — Walt Disney
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
