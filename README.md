@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."
+> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
 >
-> — Walt Disney
+> — Kamal Ravikant
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
