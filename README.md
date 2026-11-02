@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
 >
-> — Kamal Ravikant
+> — Dalai Lama
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
