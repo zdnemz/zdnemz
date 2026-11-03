@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
+> "When the time is gone, you can never get it back."
 >
-> — Dalai Lama
+> — Stephen King
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
