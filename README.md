@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "When the time is gone, you can never get it back."
+> "What the eye doesn't see and the mind doesn't know, doesn't exist."
 >
-> — Stephen King
+> — D. H. Lawrence
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
