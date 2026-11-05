@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "What the eye doesn't see and the mind doesn't know, doesn't exist."
+> "Debt is the slavery of the free."
 >
-> — D. H. Lawrence
+> — Publilius Syrus
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
