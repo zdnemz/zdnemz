@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Debt is the slavery of the free."
+> "Your mind is infinite, it's your doubts that are limiting."
 >
-> — Publilius Syrus
+> — Robert Kiyosaki
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
