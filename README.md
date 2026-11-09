@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "People spend too much time doing and not enough time thinking about what they should be doing."
+> "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."
 >
-> — Naval Ravikant
+> — Dale Carnegie
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
