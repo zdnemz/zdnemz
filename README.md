@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
+> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."
 >
-> — Colin Powell
+> — Roy T. Bennett
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
