@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."
+> "In the practice of tolerance, one's enemy is the best teacher."
 >
-> — Roy T. Bennett
+> — Dalai Lama
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
