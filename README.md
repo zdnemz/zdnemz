@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "In the practice of tolerance, one's enemy is the best teacher."
+> "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."
 >
-> — Dalai Lama
+> — John Tukey
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
