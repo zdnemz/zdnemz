@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."
+> "There is nothing more frightful than ignorance in action."
 >
-> — John Tukey
+> — Johann Wolfgang von Goethe
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
