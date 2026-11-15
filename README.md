@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "There is nothing more frightful than ignorance in action."
+> "The weak can never forgive. Forgiveness is the attribute of the strong."
 >
-> — Johann Wolfgang von Goethe
+> — Mahatma Gandhi
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
