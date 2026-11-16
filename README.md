@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The weak can never forgive. Forgiveness is the attribute of the strong."
+> "I dream my painting and I paint my dream."
 >
-> — Mahatma Gandhi
+> — Vincent van Gogh
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
