@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "I dream my painting and I paint my dream."
+> "If you can't argue both sides, you can't argue."
 >
-> — Vincent van Gogh
+> — Jack Butcher
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
