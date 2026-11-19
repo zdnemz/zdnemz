@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Silence is a source of great strength."
+> "You are never too old to become younger."
 >
-> — Lao Tzu
+> — Mae West
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
