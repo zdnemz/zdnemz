@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Never waste a minute of your precious life thinking about people you don't like."
+> "To avoid criticism, do nothing, say nothing, and be nothing."
 >
-> — Celestine Chua
+> — Elbert Hubbard
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
