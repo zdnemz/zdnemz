@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "To avoid criticism, do nothing, say nothing, and be nothing."
+> "Peace is not the absence of conflict, but the ability to cope with it."
 >
-> — Elbert Hubbard
+> — Unknown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
