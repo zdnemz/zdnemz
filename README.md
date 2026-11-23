@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Peace is not the absence of conflict, but the ability to cope with it."
+> "Have a vision. Be demanding."
 >
-> — Unknown
+> — Colin Powell
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
