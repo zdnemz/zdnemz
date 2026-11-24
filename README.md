@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Have a vision. Be demanding."
+> "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."
 >
-> — Colin Powell
+> — Robert Kiyosaki
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
