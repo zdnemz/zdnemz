@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."
+> "We have to live life with a sense of urgency so not a minute is wasted."
 >
-> — Robert Kiyosaki
+> — Les Brown
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
