@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "We have to live life with a sense of urgency so not a minute is wasted."
+> "Keep your eyes on the stars, but remember to keep your feet on the ground."
 >
-> — Les Brown
+> — Theodore Roosevelt
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
