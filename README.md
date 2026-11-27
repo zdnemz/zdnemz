@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "Keep your eyes on the stars, but remember to keep your feet on the ground."
+> "It takes half your life before you discover life is a do-it-yourself project."
 >
-> — Theodore Roosevelt
+> — Napoleon Hill
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
