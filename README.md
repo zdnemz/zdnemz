@@ -70,9 +70,9 @@ Fullstack developer with three years of mostly self-directed freelance experienc
 ## 💬 Quote of the Day
 
 <!-- QUOTEOTD:START -->
-> "It takes half your life before you discover life is a do-it-yourself project."
+> "High thoughts must have high language."
 >
-> — Napoleon Hill
+> — Aristophanes
 <!-- QUOTEOTD:END -->
 
 ## 📬 Connect With Me
